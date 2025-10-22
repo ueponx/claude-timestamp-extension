@@ -1,6 +1,7 @@
 # Claude Timestamp Extension
 
 Claudeのチャット画面とRecentsページにタイムスタンプを表示するChrome拡張機能です。
+
 ※ドキュメントはLLMによって生成されました。
 
 ## 機能
