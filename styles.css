@@ -1,0 +1,17 @@
+/* Claude Timestamp Extension - Styles */
+
+/* チャットページのタイムスタンプ */
+.claude-timestamp {
+  font-size: 0.875rem;
+  color: #666;
+  margin-bottom: 0.5rem;
+  font-family: inherit;
+  opacity: 0.8;
+}
+
+/* ダークモード対応 */
+@media (prefers-color-scheme: dark) {
+  .claude-timestamp {
+    color: #999;
+  }
+}
